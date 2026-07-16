@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
+@import "tailwindcss";
+
+.journal-page {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 38px,
+    rgba(94, 70, 50, 0.08) 39px
+  );
+}
