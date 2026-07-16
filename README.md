@@ -2,6 +2,7 @@
 
 A cozy journal-inspired to-do application built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Local Storage**.
 
+
 ## ✨ Features
 
 - ➕ Add tasks
@@ -15,7 +16,6 @@ A cozy journal-inspired to-do application built with **React**, **Vite**, **Tail
 - ✨ Smooth animations using Framer Motion
 - 🎨 Cozy journal-inspired UI
 
--- 
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,6 @@ A cozy journal-inspired to-do application built with **React**, **Vite**, **Tail
 - HTML
 - CSS
 
---
 
 ## 🚀 Getting Started
 
@@ -50,13 +49,11 @@ npm install
 npm run dev
 ```
 
---
 
 ## 📸 Preview
 
-![TaskFlow Preview](assets/TaskFlow.png)
+![TaskFlow Preview](src/assets/TaskFlow.png)
 
---
 
 ## 👩‍💻 Author
 
