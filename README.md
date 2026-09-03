@@ -66,9 +66,6 @@ VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
 npm run dev
 ```
 
-
-## 📸 Preview
-
 ## 📸 Preview
 
 ### Desktop
