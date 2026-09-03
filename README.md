@@ -69,7 +69,13 @@ npm run dev
 
 ## 📸 Preview
 
-![TaskFlow Preview](src/assets/TaskFlow.png)
+## 📸 Preview
+
+### Desktop
+![TaskFlow Desktop Preview](src/assets/TaskFlow.png)
+
+### Mobile
+![TaskFlow Mobile Preview](src/assets/TaskFlow-mobile.png)
 
 
 ## 🌐 Live Demo
